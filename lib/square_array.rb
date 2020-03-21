@@ -1,4 +1,4 @@
-$counter = 0
+counter = 0
 $new_array = []
 
 def square_array(array)
