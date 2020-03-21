@@ -5,7 +5,6 @@ counter = 0
     array[counter] = (array[counter])**2
     counter += 1
   end
-  array
 end
 
 #numbers = [1, 2, 3]
